@@ -1,7 +1,5 @@
 # Path-Planning-Obstacle-Avoidance-and-Control-of-Mobile-Robot-in-Domestic-Environment
 
-![Project Image](images/project_image.png)
-
 ## Overview
 
 This repository contains MATLAB files and resources related to [Project Name]. The project consists of three primary MATLAB files for path planning, robot control, and obstacle detection, along with supporting resources such as result images, a project report, and referenced research papers.
