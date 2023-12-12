@@ -4,16 +4,6 @@
 
 This repository contains MATLAB files and resources related to [Project Name]. The project consists of three primary MATLAB files for path planning, robot control, and obstacle detection, along with supporting resources such as result images, a project report, and referenced research papers.
 
-## Table of Contents
-
-- [Project Files](#project-files)
-- [Result Images](#images)
-- [Project Report](#report)
-- [Referenced Research Papers](#referenced-research-papers)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-
-
 ## Project Files
 
 1. **Simulation_dijkstra**: This MATLAB file contains the implementation of the Dijkstra algorithm for path planning in the project.
