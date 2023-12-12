@@ -24,11 +24,7 @@ This repository contains MATLAB files and resources related to [Project Name]. T
 
 3. **Difference_images**: This MATLAB file contains code for processing and analyzing difference images used for obstacle detection.
 
-## Result Images
 
-![Result Image 1](https://github.com/karansspk/Path-Planning-Obstacle-Avoidance-and-Control-of-Mobile-Robot-in-Domestic-Environment/blob/main/Dijkstra_Path.png)
-
-![Result Image 2](https://github.com/karansspk/Path-Planning-Obstacle-Avoidance-and-Control-of-Mobile-Robot-in-Domestic-Environment/blob/main/Norm%20Image.png)
 
 
 
@@ -54,6 +50,13 @@ To get started with the project, follow these steps:
 
 3.Open the MATLAB files listed above and run them as needed for your project's objectives.
 
+## Result
 
-## Acknowledgments
+![Result Image 1](https://github.com/karansspk/Path-Planning-Obstacle-Avoidance-and-Control-of-Mobile-Robot-in-Domestic-Environment/blob/main/Dijkstra_Path.png)
 
+![Result Image 2](https://github.com/karansspk/Path-Planning-Obstacle-Avoidance-and-Control-of-Mobile-Robot-in-Domestic-Environment/blob/main/Norm%20Image.png)
+
+
+## Contributor
+
+1. [Soham Padhye](https://github.com/sohampadhye007)
