@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains MATLAB files and resources related to [Project Name]. The project consists of three primary MATLAB files for path planning, robot control, and obstacle detection, along with supporting resources such as result images, a project report, and referenced research papers.
+This repository contains MATLAB files and resources related to Project. The project consists of three primary MATLAB files for path planning, robot control, and obstacle detection, along with supporting resources such as result images, a project report, and referenced research papers.
 
 ## Project Files
 
